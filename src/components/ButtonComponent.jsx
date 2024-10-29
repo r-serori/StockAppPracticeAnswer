@@ -15,7 +15,7 @@ function ButtonComponent({ type = "button", label, onClick, variant = "primary" 
 
 export default ButtonComponent;
 
-
+//他ファイルでの呼び出し方。
 //<ButtonComponent type="button" label="登録" onClick={handleRegister} variant="primary" />
 //<ButtonComponent type="button" label="削除" onClick={handleDelete} variant="danger" />
 //<ButtonComponent type="button" label="戻る" onClick={handleBack} variant="secondary" />
