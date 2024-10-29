@@ -1,0 +1,141 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "name": "田中",
+      "position": "社員",
+      "department": "開発",
+      "email": "tanaka@example.com",
+      "phoneNumber": "123-4567",
+      "hireDate": "2023-01-15"
+    },
+    {
+      "id": "2",
+      "name": "佐藤",
+      "position": "マネージャー",
+      "department": "営業",
+      "email": "sato@example.com",
+      "phoneNumber": "123-4568",
+      "hireDate": "2022-06-20"
+    },
+    {
+      "id": "3",
+      "name": "鈴木",
+      "position": "リーダー",
+      "department": "人事",
+      "email": "suzuki@example.com",
+      "phoneNumber": "123-4569",
+      "hireDate": "2021-04-10"
+    },
+    {
+      "id": "4",
+      "name": "高橋",
+      "position": "社員",
+      "department": "開発",
+      "email": "takahashi@example.com",
+      "phoneNumber": "123-4570",
+      "hireDate": "2020-12-01"
+    },
+    {
+      "id": "5",
+      "name": "伊藤",
+      "position": "インターン",
+      "department": "マーケティング",
+      "email": "ito@example.com",
+      "phoneNumber": "123-4571",
+      "hireDate": "2023-08-05"
+    }
+  ],
+  "stocks": [
+    {
+      "id": "1",
+      "itemName": "ノートPC",
+      "category": "電化製品",
+      "quantity": 10,
+      "price": 200000,
+      "supplier": "PineApple",
+      "remarks": "新製品です。"
+    },
+    {
+      "id": "2",
+      "itemName": "モニター",
+      "category": "電化製品",
+      "quantity": 20,
+      "price": 50000,
+      "supplier": "デジタルディスプレイ株式会社",
+      "remarks": "限定セール品"
+    },
+    {
+      "id": "3",
+      "itemName": "キーボード",
+      "category": "電化製品",
+      "quantity": 100,
+      "price": 3000,
+      "supplier": "PineApple",
+      "remarks": "標準モデル"
+    },
+    {
+      "id": "4",
+      "itemName": "オフィスチェア",
+      "category": "家具",
+      "quantity": 15,
+      "price": 25000,
+      "supplier": "家具インテリア",
+      "remarks": "在庫限り"
+    },
+    {
+      "id": "5",
+      "itemName": "プロジェクター",
+      "category": "電化製品",
+      "quantity": 5,
+      "price": 120000,
+      "supplier": "ライトビジョン",
+      "remarks": "会議用"
+    },
+    {
+      "id": "6",
+      "itemName": "ホワイトボード",
+      "category": "オフィス用品",
+      "quantity": 12,
+      "price": 8000,
+      "supplier": "オフィス用品商会",
+      "remarks": "大型サイズ"
+    },
+    {
+      "id": "7",
+      "itemName": "デスク",
+      "category": "家具",
+      "quantity": 25,
+      "price": 45000,
+      "supplier": "家具インテリア",
+      "remarks": "L字型デスク"
+    },
+    {
+      "id": "8",
+      "itemName": "マウス",
+      "category": "電化製品",
+      "quantity": 75,
+      "price": 2000,
+      "supplier": "PineApple",
+      "remarks": "光学式マウス"
+    },
+    {
+      "id": "9",
+      "itemName": "USBハブ",
+      "category": "電化製品",
+      "quantity": 50,
+      "price": 1500,
+      "supplier": "テックサプライ",
+      "remarks": "5ポート"
+    },
+    {
+      "id": "10",
+      "itemName": "プリンター",
+      "category": "電化製品",
+      "quantity": 8,
+      "price": 75000,
+      "supplier": "印刷テック",
+      "remarks": "カラー印刷対応"
+    }
+  ]
+}
